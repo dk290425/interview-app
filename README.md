@@ -82,6 +82,16 @@ Use these credentials to test the application:
 - \`npm run preview\` - Preview production build
 - \`npm run lint\` - Run ESLint
 
+## Project Setup
+
+The project is configured with:
+- **Vite** for fast development and building
+- **TypeScript** for type safety
+- **Tailwind CSS** for styling
+- **ESLint** for code linting
+- **React Router** for navigation
+- **Context API** for state management
+
 ## Features Overview
 
 ### Authentication
@@ -166,4 +176,3 @@ npm run build
 ## License
 
 This project is licensed under the MIT License.
-\`\`\`
